@@ -21,7 +21,7 @@ I’m excited to take on interesting projects and contribute as a Laravel Fullst
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP"/></a>
 <a href="https://symfony.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/.../symfony-colored.svg" width="36" height="36" alt="Symfony" title="Symfony"/>
+  <img src="https://skillicons.dev/icons?i=symfony" width="36" height="36" alt="Symfony" title="Symfony"/>
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" title="Laravel"/></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a>
