@@ -10,7 +10,7 @@ I’m excited to take on interesting projects and contribute as a Laravel Fullst
 
 * 🌍  I'm based in Konotop, Ukraine
 * ✉️  You can contact me at [ivashchenko8078@gmail.com](mailto:ivashchenko8078@gmail.com)
-* 🧠  I'm learning Laravel, Node.js
+* 🧠  I'm learning Laravel, Vue.js
 * 🤝  I'm open to collaborating on interesting projects
 
 
