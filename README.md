@@ -2,20 +2,13 @@
 
 ## Fullstack Developer
 
-I’m a Fullstack Developer with solid experience in **PHP** and **Laravel**, along with practical skills in **Node.js**, **React.js**, **Vue.js**, **HTML**, **CSS**, and **JavaScript**.  
-I enjoy creating web applications that are **scalable, maintainable, and user-friendly**, working across both backend and frontend technologies.  
+I’m a Fullstack Developer with experience building applications using **Node.js** and **Laravel**.  
+Currently, I’m moving deeper into the **Java + Spring** ecosystem, aiming for enterprise-level development while keeping solid fullstack skills.  
+My English is at **B2 level**, which helps me communicate effectively in team projects and international environments.  
 
-I’m passionate about learning and exploring new tools — from the Laravel ecosystem to modern frontend frameworks like React. I always try to grow my skills and experiment with new approaches.  
-
-My English is at **B2 level**, which lets me communicate clearly and collaborate smoothly with teammates. I enjoy team projects as they strengthen problem-solving, collaboration, and project architecture skills.  
-
-I’m excited to take on interesting projects and contribute as a **Laravel Fullstack Developer**.
-
-- 🌍  I'm based in Konotop, Ukraine  
-- ✉️  Contact: [ivashchenko8078@gmail.com](mailto:ivashchenko8078@gmail.com)  
-- 🧠  Currently learning Laravel, Vue.js  
-- 🤝  Open to collaborate on interesting projects  
-
+- 🌍 Based in Konotop, Ukraine  
+- ✉️ Contact: [ivashchenko8078@gmail.com](mailto:ivashchenko8078@gmail.com)  
+- 🧠 Currently focused on Java + Spring  
 ---
 ## 🛠 Tech Stack
 
