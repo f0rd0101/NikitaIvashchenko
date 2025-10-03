@@ -43,11 +43,9 @@ I’m excited to take on interesting projects and contribute as a **Laravel Full
 
 ---
 
-## Socials
-<p align="left">
-  <a href="https://github.com/f0rd0101" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/nikita-ivashchenk0/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
-</p>
+## 🌐 Socials
 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/f0rd0101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-ivashchenk0/)
 ---
 
