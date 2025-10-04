@@ -5,7 +5,7 @@
 <p align="center">
 I’m a Computer Science student with hands-on experience building applications using Node.js and Laravel. Currently, I’m focusing on learning the Java + Spring ecosystem, aiming to grow into enterprise-level development while maintaining my fullstack skills. I’m eager to apply my existing experience and expand my expertise in Java-based projects. My English is at B2 level, allowing me to communicate effectively.
 </p>
-<p align="center">
+<p align="center" style="display: flex; flex-direction: column; align-items: center;">
 - 🌍 Based in Konotop, Ukraine  
 - ✉️ Contact: [ivashchenko8078@gmail.com](mailto:ivashchenko8078@gmail.com)  
 - 🧠 Currently focused on Java + Spring  
