@@ -56,9 +56,7 @@ I’m a Computer Science student with hands-on experience building applications 
 ## 🌐 Socials
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
-  <a href="https://github.com/f0rd0101" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
+  <a href="https://github.com/f0rd0101" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/nikita-ivashchenk0/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/></a>
 </div>
 
