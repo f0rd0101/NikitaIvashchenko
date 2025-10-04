@@ -1,4 +1,4 @@
-<h1 align="center">Hi, fella! My name is Nikita Ivashchenko</h1>H
+<h1 align="center">Hi, fella! My name is Nikita Ivashchenko <img src="https://static.vecteezy.com/system/resources/previews/055/206/267/non_2x/a-minimalist-stylized-logo-of-a-cat-s-head-and-neck-within-a-circular-frame-vector.jpg" width="30" height="30" /></h1>
 
 <h3 align="center">Java Developer <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" /></h3>
 
