@@ -5,12 +5,13 @@
 <p align="center">
 I’m a Computer Science student with hands-on experience building applications using Node.js and Laravel. Currently, I’m focusing on learning the Java + Spring ecosystem, aiming to grow into enterprise-level development while maintaining my fullstack skills. I’m eager to apply my existing experience and expand my expertise in Java-based projects. My English is at B2 level, allowing me to communicate effectively.
 </p>
-<p align="center" style="display: flex; flex-direction: column; align-items: center;">
-- 🌍 Based in Konotop, Ukraine  
-- ✉️ Contact: [ivashchenko8078@gmail.com](mailto:ivashchenko8078@gmail.com)  
-- 🧠 Currently focused on Java + Spring  
----
-</p>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
+  <span>🌍 Based in Konotop, Ukraine</span>
+  <span>✉️ Contact: <a href="mailto:ivashchenko8078@gmail.com">ivashchenko8078@gmail.com</a></span>
+  <span>🧠 Currently focused on Java + Spring</span>
+  <hr style="width: 50%; margin-top: 10px;" />
+</div>
+
 ## 🛠 Tech Stack
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
