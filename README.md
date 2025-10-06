@@ -8,6 +8,8 @@ I’m a Computer Science student with hands-on experience building applications 
  <div align="center">
 <h2 align="center">Contact me:</h2>
 <a href="https://www.linkedin.com/in/nikita-ivashchenk0/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
+<a href="https://t.me/nickiv_22" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram" title="Telegram"/></a>
+
 </div>
 <h2 align="center">🛠 Tech Stack</h2>
 
