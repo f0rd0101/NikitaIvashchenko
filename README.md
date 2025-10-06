@@ -6,7 +6,8 @@
 I’m a Computer Science student with hands-on experience building applications using Node.js and Laravel. Currently, I’m focusing on learning the Java + Spring ecosystem, aiming to grow into enterprise-level development while maintaining my fullstack skills. I’m eager to apply my existing experience and expand my expertise in Java-based projects. My English is at B2 level, allowing me to communicate effectively.
 </p>
  
-
+<h2 align="center">Contact me:</h2>
+<a href="https://www.linkedin.com/in/nikita-ivashchenk0/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
 
 <h2 align="center">🛠 Tech Stack</h2>
 
