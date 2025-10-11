@@ -1,11 +1,7 @@
-<h1 align="center">Hi, fella! My name is Nikita Ivashchenko 
-  <img src="https://i.pinimg.com/736x/7c/3b/c0/7c3bc081f39951d734d76c50c628237e.jpg" width="30" height="30" />
-</h1>
+<h1 align="center">Hi, fella! My name is Nikita Ivashchenko <img src="https://i.pinimg.com/736x/7c/3b/c0/7c3bc081f39951d734d76c50c628237e.jpg" width="30" height="30" /></h1>
 
-<h2 align="center">
-  C# Developer&nbsp;
-  <img src="https://sanishtech.com/i/bL4UATIDPYH.png" width="20" />
-</h2>
+
+<h2 align="center"> C# Developer&nbsp;<img src="https://sanishtech.com/i/bL4UATIDPYH.png" width="20" /> </h2>
 
 <p align="center">
 I’m a Computer Science student with hands-on experience building applications using Node.js and Laravel. 
@@ -42,3 +38,8 @@ expertise in C#-based projects. My English is at B2 level, allowing me to commun
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
   </kbd>
 </div>
+
+
+[![github stats](https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=888&hide_border=true&username=f0rd0101&hide=contribs,issues&show_icons=true&count_private=true&rank_icon=github)](https://github.com/f0rd0101)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bg_color=0000&text_color=888&hide_border=true&username=f0rd0101&layout=compact&hide_progress=true)](https://github.com/f0rd0101)
