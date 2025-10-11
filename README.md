@@ -5,7 +5,7 @@
 
 <h2 align="center">
   C# Developer
-  <img src="0b705b70-d53a-44c2-b33e-9251ece3b955.png" width="20" height="20" />
+  <img src="0b705b70-d53a-44c2-b33e-9251ece3b955.png" width="20" height="25" />
 </h2>
 
 
