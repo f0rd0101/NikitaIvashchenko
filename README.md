@@ -5,7 +5,7 @@
 
 <h2 align="center">
   C# Developer&nbsp;
-  <img src="https://sanishtech.com/i/bL4UATIDPYH.png" width="20" />
+  <img src="https://sanishtech.com/i/bL4UATIDPYH.png](https://sanishtech.com/i/Ll0Wgm1f3zi.png" width="20" />
 </h2>
 
 <p align="center">
