@@ -53,9 +53,12 @@
       <kbd>Tools / IDE / OS</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-       <img width="30px" src="Windows-Logo-Clip-Art-Transparent-PNG.png" />
+      <img width="30px" src="64px-Visual_Studio_Icon_2019.svg.png" />
+      <img width="30px" src="pngwing.com.png" />
+      <img width="30px" src="Windows-Logo-Clip-Art-Transparent-PNG.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      
     </kbd>
   </p>
 </div>
