@@ -69,11 +69,45 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/f0rd0101">
-    <img src="https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=888&hide_border=true&username=f0rd0101&hide=contribs,issues&show_icons=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<!-- STATS -->
+
+<div align="center">
+  <a href="https://github.com/f0rd0101/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=f0rd0101&bg_color=0e1118&hide_border=true&custom_title=f0rd0101's%20Contribution%20Graph&area=true&area_color=8A2BE2&title_color=BA55D3&line=BA55D3&point=BA55D3&theme=high-contrast" width="800" alt="f0rd0101-Contribution-graph" title="Contribution Graph">
   </a>
-  <a href="https://github.com/f0rd0101">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=0000&text_color=888&hide_border=true&username=f0rd0101&layout=compact&hide_progress=true" alt="Top languages" />
+</div>
+
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=3&section=header&%20render">
   </a>
-</p>
+</div>
+
+<div align="center">
+  <a href="https://github.com/f0rd0101/">
+    <img src="https://github-readme-stats.vercel.app/api?username=f0rd0101&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=f0rd0101's%20GitHub%20Stats&title_color=BA55D3&icon_color=8A2BE2&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="510" alt="f0rd0101-stats" title="GitHub Stats">
+  </a>
+  <a href="https://github.com/f0rd0101/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f0rd0101&layout=compact&langs_count=10&theme=codeSTACKr&custom_title=f0rd0101's%20Top%20Langs%20(By%20File%20Size)&title_color=BA55D3&icon_color=8A2BE2&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="330" alt="f0rd0101-TopLangs-stats" title="Coding Language Stats">
+  </a>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=3&section=header&%20render">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/f0rd0101/">
+    <img src="https://streak-stats.demolab.com/?user=f0rd0101&theme=dark&hide_border=true&background=0E1118&ring=8A2BE2&fire=C084FC&currStreakLabel=C084FC&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="f0rd0101-Streak-stats" title="Streak Stats">
+  </a>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=2&section=header&%20render">
+  </a>
+</div>
+
+<br>
