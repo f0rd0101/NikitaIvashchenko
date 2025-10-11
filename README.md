@@ -1,4 +1,7 @@
-<img src="icons8-c-sharp-logo-96.png" width="90"  alt="C#" align="center" />
+<p align="center">
+<img src="icons8-c-sharp-logo-96.png" width="90"  alt="C#"/>    
+</p>
+
 <h1 align="center">
     <strong>Nikita Ivashchenko</strong>
 </h1>
