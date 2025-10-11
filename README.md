@@ -13,9 +13,27 @@ I’m a Computer Science student with hands-on experience building applications 
 
 </p>
 
+
  <div align="center">
 
+
 <h2 align="center">Contact me:</h2>
+
+
+<a href="https://www.linkedin.com/in/nikita-ivashchenk0/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
+
+
+<a href="https://t.me/nickiv_22" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram" title="Telegram"/></a>
+<h2 align="center">🛠 Tech Stack</h2>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <kbd style="padding:10px;">
+    <kbd>Frontend</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </kbd>
+</div>
   <kbd style="padding:10px;">
     <kbd>Backend</kbd>
     <br><br>
@@ -42,5 +60,4 @@ I’m a Computer Science student with hands-on experience building applications 
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=888&hide_border=true&username=f0rd0101&hide=contribs,issues&show_icons=true&count_private=true&rank_icon=github)](https://github.com/f0rd0101)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bg_color=0000&text_color=888&hide_border=true&username=f0rd0101&layout=compact&hide_progress=true)](https://github.com/f0rd0101)
