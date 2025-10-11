@@ -1,6 +1,5 @@
 <h1 align="center">
-  Nikita Ivashchenko
-  <img src="icons8-c-sharp-logo-96.png" width="40" alt="C#" style="vertical-align: middle; margin-left: 8px;" />
+  Nikita Ivashchenko<img src="icons8-c-sharp-logo-96.png" width="40" alt="C#" style="vertical-align: middle; margin-left: 8px;" />
 </h1>
 
 
