@@ -1,20 +1,11 @@
-  <p align="center">
-    <img src="icons8-c-sharp-logo-96.png" width="100" alt="C#" style="vertical-align: middle; margin-right: 10px;">
-  </p>
-  <h1 align="center">
+<p align="center">
+  <img src="icons8-c-sharp-logo-96.png" width="100" alt="C#" style="vertical-align: middle; margin-right: 10px;">
+</p>
+<h1 align="center">
   <strong>Nikita Ivashchenko</strong>
 </h1>
 
-
-
-
-
-
-
-
 <h3 align="center">C# Developer • ASP.NET Core • Entity Framework • REST API</h3>
-
-
 
 <p align="center">
   I’m a Computer Science student with hands-on experience building applications using Node.js and Laravel. 
@@ -27,9 +18,11 @@
 
   <h2>Contact me:</h2>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
   <a href="https://t.me/nickiv_22" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-8A2BE2?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
+    <img src="https://img.shields.io/badge/Telegram-8A2BE2?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
+  </a>
 
   <h2>🛠 Tech Stack</h2>
 
@@ -72,8 +65,8 @@
 <!-- STATS -->
 
 <div align="center">
-  <a href="https://github.com/f0rd0101/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=f0rd0101&bg_color=0e1118&hide_border=true&custom_title=f0rd0101's%20Contribution%20Graph&area=true&area_color=8A2BE2&title_color=BA55D3&line=BA55D3&point=BA55D3&theme=high-contrast" width="800" alt="f0rd0101-Contribution-graph" title="Contribution Graph">
+  <a href="https://github.com/cypher2213/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=8A2BE2&title_color=BA55D3&line=BA55D3&point=BA55D3&theme=high-contrast" width="800" alt="cypher2213-Contribution-graph" title="Contribution Graph">
   </a>
 </div>
 
@@ -84,11 +77,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/f0rd0101/">
-    <img src="https://github-readme-stats.vercel.app/api?username=f0rd0101&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=f0rd0101's%20GitHub%20Stats&title_color=BA55D3&icon_color=8A2BE2&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="510" alt="f0rd0101-stats" title="GitHub Stats">
+  <a href="https://github.com/cypher2213/">
+    <img src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=cypher2213's%20GitHub%20Stats&title_color=BA55D3&icon_color=8A2BE2&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="510" alt="cypher2213-stats" title="GitHub Stats">
   </a>
-  <a href="https://github.com/f0rd0101/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f0rd0101&layout=compact&langs_count=10&theme=codeSTACKr&custom_title=f0rd0101's%20Top%20Langs%20(By%20File%20Size)&title_color=BA55D3&icon_color=8A2BE2&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="330" alt="f0rd0101-TopLangs-stats" title="Coding Language Stats">
+  <a href="https://github.com/cypher2213/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=10&theme=codeSTACKr&custom_title=cypher2213's%20Top%20Langs%20(By%20File%20Size)&title_color=BA55D3&icon_color=8A2BE2&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="330" alt="cypher2213-TopLangs-stats" title="Coding Language Stats">
   </a>
 </div>
 
@@ -99,8 +92,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/f0rd0101/">
-    <img src="https://streak-stats.demolab.com/?user=f0rd0101&theme=dark&hide_border=true&background=0E1118&ring=8A2BE2&fire=C084FC&currStreakLabel=C084FC&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="f0rd0101-Streak-stats" title="Streak Stats">
+  <a href="https://github.com/cypher2213/">
+    <img src="https://streak-stats.demolab.com/?user=cypher2213&theme=dark&hide_border=true&background=0E1118&ring=8A2BE2&fire=C084FC&currStreakLabel=C084FC&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="cypher2213-Streak-stats" title="Streak Stats">
   </a>
 </div>
 
