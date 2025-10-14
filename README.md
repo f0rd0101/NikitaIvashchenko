@@ -102,10 +102,10 @@
   </a>
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="#">
     <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=2&section=header&%20render">
   </a>
-</div>
+</div> -->
 
 <br>
