@@ -6,6 +6,12 @@
 </h1>
 
 <h3 align="center">C# Developer • ASP.NET Core • Entity Framework • REST API</h3>
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=3&section=header&%20render">
+  </a>
+</div>
+
 
 <p align="center">
   I’m a Computer Science student with hands-on experience building applications using Node.js and Laravel. 
@@ -28,6 +34,13 @@
   <a href="https://t.me/nickiv_22" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-8A2BE2?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
   </a>
+  
+  <div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=3&section=header&%20render">
+  </a>
+</div>
+
 
   <h2>🛠 Tech Stack</h2>
 
