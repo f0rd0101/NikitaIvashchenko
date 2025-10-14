@@ -15,6 +15,12 @@
 </p>
 
 <div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=3&section=header&%20render">
+  </a>
+</div>
+
+<div align="center">
 
   <h2>Contact me:</h2>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
