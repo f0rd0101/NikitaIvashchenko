@@ -91,21 +91,8 @@
 </div>
 
 <div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=3&section=header&%20render">
-  </a>
+  <a href="#"><img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=3&section=header&%20render"></a>
 </div>
 
-<!-- <div align="center">
-  <a href="https://github.com/cypher2213/">
-    <img src="https://streak-stats.demolab.com/?user=cypher2213&theme=dark&hide_border=true&background=0E1118&ring=8A2BE2&fire=C084FC&currStreakLabel=C084FC&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="cypher2213-Streak-stats" title="Streak Stats">
-  </a>
-</div> -->
-
-<!-- <div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=2&section=header&%20render">
-  </a>
-</div> -->
 
 <br>
