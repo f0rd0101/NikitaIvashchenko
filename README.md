@@ -38,7 +38,6 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     </kbd>
-
     <kbd style="padding:10px;">
       <kbd>Backend</kbd>
       <br><br>
@@ -46,14 +45,12 @@
       <img width="30px" src="https://www.smartsight.in/wp-content/uploads/2019/10/1200px-.NET_Core_Logo.svg_-300x300.png" alt="ASP.NET Core" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
     </kbd>
-
     <kbd style="padding:10px;">
       <kbd>Databases</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     </kbd>
-
     <kbd style="padding:10px;">
       <kbd>Tools / IDE / OS</kbd>
       <br><br>
