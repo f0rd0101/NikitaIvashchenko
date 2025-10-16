@@ -18,11 +18,9 @@
 <div align="center">
   <h2>Contact me:</h2>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
-    <img src="https://img.shields.io/badge/LinkedIn-00C853?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-00C853?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://t.me/nickiv_22" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-AEEA00?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" />
-  </a>
+    <img src="https://img.shields.io/badge/Telegram-AEEA00?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
 </div>
 
 ---
@@ -81,12 +79,10 @@
 
 <div align="center">
   <a href="https://github.com/cypher2213/">
-    <img src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&custom_title=cypher2213's%20GitHub%20Stats&title_color=AEEA00&icon_color=00C853&border_color=0d1017&bg_color=0e1118&disable_animations=false" width="510" alt="cypher2213-stats" title="GitHub Stats">
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&custom_title=cypher2213's%20GitHub%20Stats&title_color=AEEA00&icon_color=00C853&border_color=0d1017&bg_color=0e1118&disable_animations=false" width="510" alt="cypher2213-stats" title="GitHub Stats"></a>
 
   <a href="https://github.com/cypher2213/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=10&count_private=true&cache_seconds=7200&hide=html,css,blade,shell,dockerfile&theme=codeSTACKr&custom_title=cypher2213's%20Top%20Langs%20(By%20File%20Size)&title_color=AEEA00&icon_color=00C853&border_color=0e1118&bg_color=0e1118&disable_animations=false" width="330" alt="cypher2213-top-langs">
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=10&count_private=true&cache_seconds=7200&hide=html,css,blade,shell,dockerfile&theme=codeSTACKr&custom_title=cypher2213's%20Top%20Langs%20(By%20File%20Size)&title_color=AEEA00&icon_color=00C853&border_color=0e1118&bg_color=0e1118&disable_animations=false" width="330" alt="cypher2213-top-langs"></a>
 </div>
 
 <div align="center">
