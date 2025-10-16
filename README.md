@@ -8,7 +8,7 @@
 
 <h3 align="center">C# Developer • ASP.NET Core • Entity Framework • REST API</h3>
 
-<p align="center">
+<p align="center" style="color:#CCCCCC;">
   I’m a Computer Science student with hands-on experience building applications using Node.js and Laravel. 
   Currently, I’m focusing on learning the C# + ASP.NET Core ecosystem, aiming to grow into enterprise-level 
   development while maintaining my fullstack skills. I’m eager to apply my existing experience and expand my 
@@ -16,44 +16,44 @@
 </p>
 
 <div align="center">
-  <h2>Contact me:</h2>
+  <h2 style="color:#CCCCCC;">Contact me:</h2>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
-    <img src="https://img.shields.io/badge/LinkedIn-00C853?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+    <img src="https://img.shields.io/badge/LinkedIn-512BD4?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://t.me/nickiv_22" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-AEEA00?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
+    <img src="https://img.shields.io/badge/Telegram-512BD4?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🛠 Tech Stack</h2>
+  <h2 style="color:#CCCCCC;">🛠 Tech Stack</h2>
 
   <p align="center">
     <kbd style="padding:10px;">
-      <kbd>Frontend</kbd>
+      <kbd style="color:#CCCCCC;">Frontend</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     </kbd>
     <kbd style="padding:10px;">
-      <kbd>Backend</kbd>
+      <kbd style="color:#CCCCCC;">Backend</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" />
-      <img width="30px" src="https://www.smartsight.in/wp-content/uploads/2019/10/1200px-.NET_Core_Logo.svg_-300x300.png" alt="ASP.NET Core" />
+      <img width="30px" src="https://www.smartsight.in/wp-content/uploads/2019/10/1200px-.NET_Core_Logo.svg" alt="ASP.NET Core" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
     </kbd>
     <kbd style="padding:10px;">
-      <kbd>Databases</kbd>
+      <kbd style="color:#CCCCCC;">Databases</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     </kbd>
     <kbd style="padding:10px;">
-      <kbd>Tools / IDE / OS</kbd>
+      <kbd style="color:#CCCCCC;">Tools / IDE / OS</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      <img width="30px" src="64px-Visual_Studio_Icon_2019.svg.png" />
+      <img width="64px" src="64px-Visual_Studio_Icon_2019.svg.png" />
       <img width="30px" src="pngwing.com.png" />
       <img width="30px" src="Windows-Logo-Clip-Art-Transparent-PNG.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
@@ -67,26 +67,26 @@
 <!-- STATS -->
 <div align="center">
   <a href="https://github.com/cypher2213/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=00C853&title_color=AEEA00&line=AEEA00&point=00C853&theme=high-contrast" width="800" alt="cypher2213-Contribution-graph" title="Contribution Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=512BD4&title_color=CCCCCC&line=CCCCCC&point=512BD4&theme=high-contrast" width="800" alt="cypher2213-Contribution-graph" title="Contribution Graph">
   </a>
 </div>
 
 <div align="center">
   <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=3&section=header&render">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=512BD4&height=3&section=header&render">
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/cypher2213/">
-    <img src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&custom_title=cypher2213's%20GitHub%20Stats&title_color=AEEA00&icon_color=00C853&border_color=0d1017&bg_color=0e1118&disable_animations=false" width="510" alt="cypher2213-stats" title="GitHub Stats"></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&count_private=true&include_all_commits=true&theme=dark&custom_title=cypher2213's%20GitHub%20Stats&title_color=CCCCCC&icon_color=512BD4&border_color=0d1017&bg_color=0e1118&disable_animations=false" width="510" alt="cypher2213-stats" title="GitHub Stats"></a>
 
   <a href="https://github.com/cypher2213/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=10&count_private=true&cache_seconds=7200&hide=html,css,blade,shell,dockerfile&theme=codeSTACKr&custom_title=cypher2213's%20Top%20Langs%20(By%20File%20Size)&title_color=AEEA00&icon_color=00C853&border_color=0e1118&bg_color=0e1118&disable_animations=false" width="330" alt="cypher2213-top-langs"></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=10&count_private=true&cache_seconds=7200&hide=html,css,blade,shell,dockerfile&theme=dark&custom_title=cypher2213's%20Top%20Langs%20(By%20File%20Size)&title_color=CCCCCC&icon_color=512BD4&border_color=0e1118&bg_color=0e1118&disable_animations=false" width="330" alt="cypher2213-top-langs"></a>
 </div>
 
 <div align="center">
   <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=3&section=header&render">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=512BD4&height=3&section=header&render">
   </a>
 </div>
