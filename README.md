@@ -71,20 +71,25 @@
 
 <div align="center">
   <a href="https://github.com/cypher2213/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=8A2BE2&title_color=BA55D3&line=BA55D3&point=BA55D3&theme=high-contrast" width="800" alt="cypher2213-Contribution-graph" title="Contribution Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=306998&title_color=FFD43B&line=FFD43B&point=306998&theme=high-contrast" width="800" alt="cypher2213-Contribution-graph" title="Contribution Graph">
   </a>
 </div>
 
 <div align="center">
   <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=3&section=header&%20render">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=306998&height=3&section=header&%20render">
   </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/cypher2213/"><img src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=cypher2213's%20GitHub%20Stats&title_color=BA55D3&icon_color=8A2BE2&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="510" alt="cypher2213-stats" title="GitHub Stats"></a>
-  <a href="https://github.com/cypher2213/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=10&count_private=true&cache_seconds=7200&hide=html,css,blade&theme=codeSTACKr&custom_title=cypher2213's%20Top%20Langs%20(By%20File%20Size)&title_color=BA55D3&icon_color=8A2BE2&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="330"></a>
+  <a href="https://github.com/cypher2213/">
+    <img src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=cypher2213's%20GitHub%20Stats&title_color=FFD43B&icon_color=306998&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="510" alt="cypher2213-stats" title="GitHub Stats">
+  </a>
+  <a href="https://github.com/cypher2213/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=10&count_private=true&cache_seconds=7200&hide=html,css,blade,shell,dockerfile&theme=codeSTACKr&custom_title=cypher2213's%20Top%20Langs%20(By%20File%20Size)&title_color=FFD43B&icon_color=306998&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="330" alt="cypher2213-top-langs">
+  </a>
 </div>
+
 
 <div align="center">
   <a href="#"><img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=3&section=header&%20render"></a>
