@@ -6,7 +6,7 @@
   <strong>Nikita Ivashchenko</strong>
 </h1>
 
-<h3 align="center">C# Developer • ASP.NET Core • Entity Framework • REST API</h3>
+<h3 align="center" style="color:#CCCCCC;">C# Developer • ASP.NET Core • Entity Framework • REST API</h3>
 
 <p align="center" style="color:#CCCCCC;">
   I’m a Computer Science student with hands-on experience building applications using Node.js and Laravel. 
