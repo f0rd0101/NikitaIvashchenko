@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icons8-c-sharp-logo-96.png" width="100" alt="C#" style="vertical-align: middle; margin-right: 10px;">
+  <img src="python_plain_logo_icon_146379.svg" width="100" alt="C#" style="vertical-align: middle; margin-right: 10px;">
 </p>
 <p align="center" style="margin:0;">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=30000&color=00C853&background=FFFFFF00&center=true&vCenter=true&width=350&lines=Nikita+Ivashchenko" alt="Typing SVG" /></a>
