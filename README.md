@@ -26,7 +26,7 @@
       <kbd>Frontend</kbd>
       <br><br>
       <img width="30px" src="html-5.svg" />
-      <img width="30px" src="icons8-css3-480.svg" />
+      <img width="30px" height="30" src="icons8-css3-480.svg" />
       <img width="30px" src="javascript-1.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     </kbd>
