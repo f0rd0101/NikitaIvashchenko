@@ -1,10 +1,11 @@
 <p align="center">
   <img src="icons8-c-sharp-logo-96.png" width="100" alt="C#" style="vertical-align: middle; margin-right: 10px;">
 </p>
-<h1 align="center" style="color:#00C853; font-family:'Fira Code', monospace; font-size:48px; font-weight:bold;">
-  Nikita Ivashchenko
-</h1>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=700&height=150&lines=Nikita+Ivashchenko" alt="Nikita Ivashchenko"/>
+  </a>
+</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFED00&background=FFFFFF00&center=true&vCenter=true&width=700&height=150&lines=I%E2%80%99m+a+Computer+Science+student.;Fullstack+(mainly+backend);Committed+to+writing+clean+and+maintainable+code;English%3A+B2+%E2%80%94+clear+technical+communication;Simplicity+is+the+ultimate+sophistication." alt="Typing SVG"/></a>
