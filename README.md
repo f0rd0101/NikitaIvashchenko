@@ -3,9 +3,6 @@
 </p>
 <h1 align="center">
   <strong>Nikita Ivashchenko</strong>
-  <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=3&section=header&render">
-</div>
 </h1>
 <div align="center">
   <a href="#">
@@ -18,13 +15,6 @@
 </p>
 
 
-
-
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=3&section=header&render">
-  </a>
-</div>
 <div align="center">
   <h2>Contact me:</h2>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
