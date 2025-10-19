@@ -6,14 +6,17 @@
   <strong>Nikita Ivashchenko</strong>
 </h1>
 
-<h3 align="center">C# Developer • ASP.NET Core • Entity Framework • REST API</h3>
+<h3 align="center">Backend Developer • FastAPI • Laravel • REST API</h3>
 
 <p align="center">
-  I’m a Computer Science student with hands-on experience building applications using Node.js and Laravel. 
-  Currently, I’m focusing on learning the C# + ASP.NET Core ecosystem, aiming to grow into enterprise-level 
-  development while maintaining my fullstack skills. I’m eager to apply my existing experience and expand my 
-  expertise in C#-based projects. My English is at B2 level, allowing me to communicate effectively.
+<pre>
+I’m a Computer Science student with hands-on experience in building applications using Node.js and Laravel.
+Currently, I’m focusing on strengthening my backend expertise with Laravel and learning FastAPI while maintaining my full-stack capabilities.
+I focus on writing clean, maintainable, and effective code.
+English proficiency: B2, enabling clear and effective communication in technical environments.
+</pre>
 </p>
+
 
 <div align="center">
   <h2>Contact me:</h2>
