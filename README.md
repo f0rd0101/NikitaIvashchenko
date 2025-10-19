@@ -20,10 +20,11 @@
     <img src="https://img.shields.io/badge/Telegram-AEEA00?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
 </div>
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF400&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Tech+Stack+%F0%9F%94%A7" alt="Typing SVG" /></a>
-</h3>
+<div align="center">
+  <!-- Typing SVG заголовок -->
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF400&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Tech+Stack+%F0%9F%94%A7" alt="Typing SVG" />
+  </a>
 <!-- Backend -->
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://git.io/typing-svg">
