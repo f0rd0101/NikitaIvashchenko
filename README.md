@@ -23,28 +23,32 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <!-- Backend -->
-<p align="left">
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=150&lines=Backend" alt="Typing SVG" /></a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,fastapi" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,fastapi" />
   </a>
 </p>
 
 <!-- Frontend -->
-<p align="left">
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=150&lines=Frontend" alt="Typing SVG" /></a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react" />
   </a>
 </p>
 
 <!-- Database -->
-<p align="left">
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=150&lines=Database" alt="Typing SVG" /></a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
   </a>
 </p>
 
 <!-- Tools -->
-<p align="left">
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=150&lines=Tools" alt="Typing SVG" /></a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
   </a>
