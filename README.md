@@ -21,9 +21,15 @@
 </div>
 
 
-<div align="center" style="margin-top: 20px"; ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF400&center=true&vCenter=true&repeat=false&width=200&height=40&lines=Tech+Stack" alt="Typing SVG" /></a></div>
+<!-- Tech Stack -->
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF400&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Tech+Stack" alt="Typing SVG" />
+  </a>
+</div>
+
 <!-- Backend -->
-<div align="center" style="margin-bottom: 20px;">
+<div style="text-align: center; margin-bottom: 20px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Backend" alt="Typing SVG" />
   </a>
@@ -34,7 +40,7 @@
 </div>
 
 <!-- Frontend -->
-<div align="center" style="margin-bottom: 20px;">
+<div style="text-align: center; margin-bottom: 20px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Frontend" alt="Typing SVG" />
   </a>
@@ -45,7 +51,7 @@
 </div>
 
 <!-- Database -->
-<div align="center" style="margin-bottom: 20px;">
+<div style="text-align: center; margin-bottom: 20px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Database" alt="Typing SVG" />
   </a>
@@ -56,7 +62,7 @@
 </div>
 
 <!-- Tools -->
-<div align="center" style="margin-bottom: 20px;">
+<div style="text-align: center; margin-bottom: 20px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Tools" alt="Typing SVG" />
   </a>
