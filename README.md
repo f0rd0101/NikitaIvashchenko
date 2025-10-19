@@ -25,36 +25,36 @@
     <kbd style="padding:10px;">
       <kbd>Frontend</kbd>
       <br><br>
-      <img width="30px" src="html-5.svg" />
-      <img width="30px" height="30" src="icons8-css3-480.svg" />
-      <img width="30px" src="javascript-1.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img width="30px" src="javascript-1.svg" alt="JavaScript" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
     </kbd>
     <kbd style="padding:10px;">
       <kbd>Backend</kbd>
       <br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" />
-      <img width="30px" src="https://www.smartsight.in/wp-content/uploads/2019/10/1200px-.NET_Core_Logo.svg_-300x300.png" alt="ASP.NET Core" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" />
     </kbd>
     <kbd style="padding:10px;">
       <kbd>Databases</kbd>
       <br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
     </kbd>
     <kbd style="padding:10px;">
       <kbd>Tools / IDE / OS</kbd>
       <br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      <img width="30px" src="64px-Visual_Studio_Icon_2019.svg.png" />
-      <img width="30px" src="pngwing.com.png" />
-      <img width="30px" src="Windows-Logo-Clip-Art-Transparent-PNG.png" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+      <img width="30px" src="64px-Visual_Studio_Icon_2019.svg.png" alt="VS Code" />
+      <img width="30px" src="postman.svg" alt="Postman" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
     </kbd>
   </p>
 </div>
+
 
 ---
 
