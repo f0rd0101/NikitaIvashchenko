@@ -8,14 +8,7 @@
 
 <h3 align="center">Backend Developer • FastAPI • Laravel • REST API</h3>
 
-<p align="center">
-<pre>
-I’m a Computer Science student with hands-on experience in building applications using Node.js and Laravel.
-Currently, I’m focusing on strengthening my backend expertise with Laravel and learning FastAPI while maintaining my full-stack capabilities.
-I focus on writing clean, maintainable, and effective code.
-English proficiency: B2, enabling clear and effective communication in technical environments.
-</pre>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=FFED00&center=true&multiline=true&width=435&height=66&lines=I%E2%80%99m+a+Computer+Science+student.;Enhancing+backend+skills+with+Laravel+and+learning+FastAPI.;Writing+clean%2C+maintainable%2C+and+effective+code.;English+proficiency%3A+B2+%E2%80%94+clear+communication+in+technical+environments.)](https://git.io/typing-svg)
 
 
 <div align="center">
