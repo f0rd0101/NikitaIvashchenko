@@ -4,17 +4,10 @@
 <h1 align="center">
   <strong>Nikita Ivashchenko</strong>
 </h1>
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=3&section=header&render">
-  </a>
-</div>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFED00&background=FFFFFF00&center=true&vCenter=true&width=700&height=150&lines=I%E2%80%99m+a+Computer+Science+student.;Fullstack+(mainly+backend);Committed+to+writing+clean+and+maintainable+code;English%3A+B2+%E2%80%94+clear+technical+communication;Simplicity+is+the+ultimate+sophistication." alt="Typing SVG"/></a>
 </p>
-
-
 <div align="center">
   <h2>Contact me:</h2>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
@@ -22,12 +15,8 @@
   <a href="https://t.me/nickiv_22" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-AEEA00?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
 </div>
-
-
-
 <div align="center">
   <h2>🛠 Tech Stack</h2>
-
   <p align="center">
     <kbd style="padding:10px;">
       <kbd>Frontend</kbd>
