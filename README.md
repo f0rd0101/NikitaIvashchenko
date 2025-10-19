@@ -2,7 +2,7 @@
   <img src="icons8-c-sharp-logo-96.png" width="100" alt="C#" style="vertical-align: middle; margin-right: 10px;">
 </p>
 <p align="center" style="margin:0;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=00C853&background=FFFFFF00&center=true&vCenter=true&width=350&lines=Nikita+Ivashchenko" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=00C853&background=FFFFFF00&center=true&vCenter=true&width=350&lines=Nikita+Ivashchenko" alt="Typing SVG" /></a>
 </p>
 
 <p align="center" style="margin-top:-20px;">
