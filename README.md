@@ -25,10 +25,20 @@
 </div>
 <div align="center">
   <h2>Contact me:</h2>
+  <div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=3&section=header&render">
+  </a>
+</div>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
     <img src="https://img.shields.io/badge/LinkedIn-00C853?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://t.me/nickiv_22" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-AEEA00?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
+  <div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=3&section=header&render">
+  </a>
+</div>
 </div>
 
 ---
