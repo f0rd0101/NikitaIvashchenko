@@ -1,13 +1,12 @@
 <p align="center">
   <img src="icons8-c-sharp-logo-96.png" width="100" alt="C#" style="vertical-align: middle; margin-right: 10px;">
 </p>
+
 <h1 align="center">
   <strong>Nikita Ivashchenko</strong>
 </h1>
 
 <h3 align="center">C# Developer • ASP.NET Core • Entity Framework • REST API</h3>
-
-
 
 <p align="center">
   I’m a Computer Science student with hands-on experience building applications using Node.js and Laravel. 
@@ -16,19 +15,17 @@
   expertise in C#-based projects. My English is at B2 level, allowing me to communicate effectively.
 </p>
 
-
 <div align="center">
-
   <h2>Contact me:</h2>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+    <img src="https://img.shields.io/badge/LinkedIn-00C853?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://t.me/nickiv_22" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-8A2BE2?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
-  </a>
-  
+    <img src="https://img.shields.io/badge/Telegram-AEEA00?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
+</div>
 
+---
 
-
+<div align="center">
   <h2>🛠 Tech Stack</h2>
 
   <p align="center">
@@ -65,30 +62,31 @@
   </p>
 </div>
 
-<br>
+---
 
 <!-- STATS -->
-
 <div align="center">
   <a href="https://github.com/cypher2213/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=8A2BE2&title_color=BA55D3&line=BA55D3&point=BA55D3&theme=high-contrast" width="800" alt="cypher2213-Contribution-graph" title="Contribution Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&bg_color=0e1118&hide_border=true&custom_title=cypher2213's%20Contribution%20Graph&area=true&area_color=00C853&title_color=AEEA00&line=AEEA00&point=00C853&theme=high-contrast" width="800" alt="cypher2213-Contribution-graph" title="Contribution Graph">
   </a>
 </div>
 
 <div align="center">
   <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=3&section=header&%20render">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=3&section=header&render">
   </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/cypher2213/"><img src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=cypher2213's%20GitHub%20Stats&title_color=BA55D3&icon_color=8A2BE2&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="510" alt="cypher2213-stats" title="GitHub Stats"></a>
-  <a href="https://github.com/cypher2213/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=10&count_private=true&cache_seconds=7200&hide=html,css,blade&theme=codeSTACKr&custom_title=cypher2213's%20Top%20Langs%20(By%20File%20Size)&title_color=BA55D3&icon_color=8A2BE2&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="330"></a>
+  <a href="https://github.com/cypher2213/">
+    <img src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&custom_title=cypher2213's%20GitHub%20Stats&title_color=AEEA00&icon_color=00C853&border_color=0d1017&bg_color=0e1118&disable_animations=false" width="510" alt="cypher2213-stats" title="GitHub Stats"></a>
+
+  <a href="https://github.com/cypher2213/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=10&count_private=true&cache_seconds=7200&hide=html,css,blade,shell,dockerfile&theme=codeSTACKr&custom_title=cypher2213's%20Top%20Langs%20(By%20File%20Size)&title_color=AEEA00&icon_color=00C853&border_color=0e1118&bg_color=0e1118&disable_animations=false" width="330" alt="cypher2213-top-langs"></a>
 </div>
 
 <div align="center">
-  <a href="#"><img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=3&section=header&%20render"></a>
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=3&section=header&render">
+  </a>
 </div>
-
-
-<br>
