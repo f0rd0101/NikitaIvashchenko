@@ -7,8 +7,10 @@
 </h1>
 
 <h3 align="center">Backend Developer • FastAPI • Laravel • REST API</h3>
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFED00&center=true&width=700&height=150&lines=I%E2%80%99m+a+Computer+Science+student.;Fullstack+(mainly+backend);Committed+to+writing+clean+and+maintainable+code;English%3A+B2+%E2%80%94+clear+technical+communication;Simplicity+is+the+ultimate+sophistication.)](https://git.io/typing-svg)
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=1000&color=FFED00&center=true&multiline=true&width=435&height=66&lines=I%E2%80%99m+a+Computer+Science+student.;Enhancing+backend+skills+with+Laravel+and+learning+FastAPI.;Writing+clean%2C+maintainable%2C+and+effective+code.;English+proficiency%3A+B2+%E2%80%94+clear+communication+in+technical+environments.)](https://git.io/typing-svg)
 
 
 <div align="center">
