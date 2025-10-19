@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Telegram-AEEA00?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
 </div>
 
-<h3 align="left">Tech Stack:</h3>
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFED00&center=true&repeat=false&width=700&height=50&lines=Tech Stack" alt="Typing SVG" /></a></h3>
 <!-- Backend -->
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://git.io/typing-svg">
