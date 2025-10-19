@@ -2,7 +2,7 @@
   <img src="icons8-c-sharp-logo-96.png" width="100" alt="C#" style="vertical-align: middle; margin-right: 10px;">
 </p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF99,00C853,00A3FF&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=800&lines=Nikita+Ivashchenko" alt="Nikita Ivashchenko gradient name"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C853,AEEA00,00C853&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=800&lines=Nikita+Ivashchenko" alt="Nikita Ivashchenko gradient name"/>
 </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
