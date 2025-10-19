@@ -1,15 +1,15 @@
 <p align="center">
   <img src="icons8-c-sharp-logo-96.png" width="100" alt="C#" style="vertical-align: middle; margin-right: 10px;">
 </p>
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=700&height=150&lines=Nikita+Ivashchenko" alt="Nikita Ivashchenko"/>
-  </a>
-</p>
-<p align="center">
+  </a><br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFED00&background=FFFFFF00&center=true&vCenter=true&width=700&height=150&lines=I%E2%80%99m+a+Computer+Science+student.;Fullstack+(mainly+backend);Committed+to+writing+clean+and+maintainable+code;English%3A+B2+%E2%80%94+clear+technical+communication;Simplicity+is+the+ultimate+sophistication." alt="Typing SVG"/></a>
-</p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFED00&background=FFFFFF00&center=true&vCenter=true&width=700&height=150&lines=I%E2%80%99m+a+Computer+Science+student.;Fullstack+(mainly+backend);Committed+to+writing+clean+and+maintainable+code;English%3A+B2+%E2%80%94+clear+technical+communication;Simplicity+is+the+ultimate+sophistication." alt="Typing SVG"/>
+  </a>
+</div>
+
 <div align="center">
   <h2>Contact me:</h2>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
