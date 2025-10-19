@@ -20,39 +20,50 @@
     <img src="https://img.shields.io/badge/Telegram-AEEA00?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-
+<h3 align="left">Tech Stack:</h3>
 <!-- Backend -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Backend" alt="Typing SVG" /></a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,fastapi" />
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Backend" alt="Typing SVG" />
   </a>
-</p>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,fastapi" />
+  </a>
+</div>
 
 <!-- Frontend -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Frontend" alt="Typing SVG" /></a>
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Frontend" alt="Typing SVG" />
+  </a>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react" />
   </a>
-</p>
+</div>
 
 <!-- Database -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Database" alt="Typing SVG" /></a>
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Database" alt="Typing SVG" />
+  </a>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
   </a>
-</p>
+</div>
 
 <!-- Tools -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Tools" alt="Typing SVG" /></a>
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Tools" alt="Typing SVG" />
+  </a>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
   </a>
-</p>
+</div>
 
 
 ---
