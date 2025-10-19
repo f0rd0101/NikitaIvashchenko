@@ -25,7 +25,7 @@
     <kbd style="padding:10px;">
       <kbd>Frontend</kbd>
       <br><br>
-      <img width="30px" src="file.svg" />
+      <img width="30px" src="logo2582748640.jpg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     </kbd>
     <kbd style="padding:10px;">
