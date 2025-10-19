@@ -24,7 +24,7 @@
 
 <!-- Backend -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=150&lines=Backend" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Backend" alt="Typing SVG" /></a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,fastapi" />
   </a>
@@ -32,7 +32,7 @@
 
 <!-- Frontend -->
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=150&lines=Frontend" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Frontend" alt="Typing SVG" /></a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react" />
   </a>
@@ -40,7 +40,7 @@
 
 <!-- Database -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=150&lines=Database" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Database" alt="Typing SVG" /></a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
   </a>
@@ -48,7 +48,7 @@
 
 <!-- Tools -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=150&lines=Tools" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Tools" alt="Typing SVG" /></a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
   </a>
