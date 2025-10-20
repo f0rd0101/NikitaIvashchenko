@@ -21,7 +21,7 @@
 </div>
 
 
-<p style="text-align: center; font-family: 'Fira Code', monospace; font-size: 40px; color: #FFF400; margin-bottom: 20px;">
+<p  align="center" style="color: #FFF400; margin-bottom: 20px;">
   Tech Stack⚙️
 </p>
 
