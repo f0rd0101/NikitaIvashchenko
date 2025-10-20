@@ -21,8 +21,9 @@
 </div>
 
 
-<p  align="center" style="color: #FFF400; margin-bottom: 20px;">
-  Tech Stack⚙️
+<p align="center" style="color:#FFF400; font-family: monospace; font-size: 40px; margin-bottom: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/settings/settings-original.svg" width="40" height="40" alt="Gear Icon" style="vertical-align: middle;">
+  Tech Stack
 </p>
 
 <!-- Backend -->
