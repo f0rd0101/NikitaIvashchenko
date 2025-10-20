@@ -12,7 +12,7 @@
 </p>
 
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <h2>Contact me:</h2>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
     <img src="https://img.shields.io/badge/LinkedIn-00C853?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
@@ -21,7 +21,7 @@
 </div>
 
 
-<p align="center" style="margin-top: 20px;">
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF400&center=true&vCenter=true&repeat=false&width=200&height=40&lines=Tech+Stack" alt="Typing SVG" /></a>
 </p>
 <!-- Backend -->
