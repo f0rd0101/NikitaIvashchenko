@@ -21,9 +21,10 @@
 </div>
 
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF400&center=true&vCenter=true&repeat=false&width=200&height=40&lines=Tech+Stack" alt="Typing SVG" /></a>
-</p>
+<div align="center" style="margin: 20px 0;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF400&center=true&vCenter=true&repeat=false&width=200&height=40&lines=Tech+Stack" alt="Typing SVG" />
+  </a>
 <!-- Backend -->
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://git.io/typing-svg">
