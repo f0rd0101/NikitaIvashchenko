@@ -67,8 +67,11 @@
 </div>
 
 
----
-
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=3&section=header&render">
+  </a>
+</div>
 <!-- STATS -->
 <div align="center">
   <a href="https://github.com/cypher2213/">
